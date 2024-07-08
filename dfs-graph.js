@@ -47,6 +47,8 @@ function dataPacketTransferGraph(network) {
   return false;
 }
 
+module.exports = dataPacketTransferGraph;
+
 // const network = [
 //   [1, 1, 1, 1],
 //   [1, 0, 1, 0],
